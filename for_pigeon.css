@@ -1,0 +1,110 @@
+*{
+  text-align: center;
+}
+.main{
+    background-color: white;
+    transition: all .2s;
+    position: relative;
+    margin-top: 5rem;
+}
+.main--1{
+    border: 1px solid whitesmoke;
+    width: 50%;
+    margin-left: 18.5rem;
+    margin-top: 10rem;
+    padding:5rem;
+    position: relative;
+    box-shadow: .5rem 1rem 1rem black;
+    background-color: whitesmoke;
+}
+.main--3{
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+}
+.main--4{
+    position: absolute;
+    top: 16rem;
+    left: 83rem;
+    width: 5%;
+    height: 10%;
+    font-size: 10rem;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color:grey
+}
+.main--5{
+    position: absolute;
+    top: 16rem;
+    left: 12rem;
+    width: 5%;
+    height: 10%;
+    font-size: 10rem;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color:grey
+}
+.main--6{
+    position: absolute;
+    top: 9.6rem;
+    left: 24rem;
+    width: 5%;
+    height: 10%;
+    font-size: 12rem;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color:grey
+}
+.main--7{
+    position: absolute;
+    top: 35rem;
+    left: 45rem;
+    width: 5%;
+    height: 10%;
+    font-size: 4rem;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color:grey
+}.main--8{
+    position: absolute;
+    top: 29.7rem;
+    left: 47rem;
+    width: 5%;
+    height: 10%;
+    font-size: 12rem;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color:grey;
+
+}.main--9{
+    position: absolute;
+    top: 35rem;
+    left: 49rem;
+    width: 5%;
+    height: 10%;
+    font-size: 4rem;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color:grey
+}
+.main--10{
+    position: absolute;
+    top: 35%;
+    left: 49.5%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    height: 30vh;
+    width: 30vh;
+    background-color: darkgray;
+    border-radius: 50%;
+}
+.main--11{
+    position: absolute;
+    top: 35%;
+    left: 49.5%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    height: 25vh;
+    width: 25vh;
+    border-radius: 30%;
+}
